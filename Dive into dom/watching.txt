@@ -1,0 +1,20 @@
+1/ Module Introduction
+2/ What's the DOM
+3/ Document and Window Object
+4/ Understanding the DOM and it's created 
+5/ Nodes & Elements
+6/ Selecting Elements in the DOM
+7/ 
+8/ Exploring and changing DOM
+9/ Attribute vs Properties
+10/ Selecting multiple Elements and SUmmery
+11/ 
+12/
+13/ Traversing the DOM
+14/ Traversing Childnodes
+15/ Using parentNode & parentElement
+16/ Selecting Sibling Elements
+17/ Dom Traversal vs Query Selector
+18/ Styling Dom Elements
+19/ 
+ 
